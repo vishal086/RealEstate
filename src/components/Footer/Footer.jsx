@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="paddings innerWidth flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">
-          <h1 className="footer-name">Vishal</h1>
+          <h1 className="footer-name">Pratyush</h1>
           <span>
           Our vision is to provide the best homes <br />
            to everyone associated with us.

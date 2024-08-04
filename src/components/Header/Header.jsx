@@ -14,7 +14,7 @@ const Header = () => {
       <div className="flexCenter innerWidth paddings h-container">
         {/* logo */}
         
-        <h1 className="logo">Vishal</h1>
+        <h1 className="logo">Pratyush</h1>
 
         {/* menu */}
         <OutsideClickHandler
